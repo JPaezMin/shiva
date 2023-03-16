@@ -11,7 +11,9 @@
       <b>alec@studiofeshareki.com</b>.
     </p>
     <p class="text-center mt-16">You can connect further with Shiva’s work on the sites below:</p>
-    <TheSocials class="flex justify-center mt-1" />
+    <div class="flex justify-center mt-4">
+      <TheSocials class="flex justify-center" />
+    </div>
   </div>
   <TheScrollToTop />
 </template>

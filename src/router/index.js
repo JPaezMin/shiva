@@ -7,6 +7,7 @@ import HomeView from '../views/HomeView.vue'
 import MediaView from '../views/MediaView.vue'
 import PressView from '../views/PressView.vue'
 import ReleasesView from '../views/ReleasesView.vue'
+import GalleryView from '../views/GalleryView.vue'
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
@@ -49,6 +50,11 @@ const router = createRouter({
       path: '/releases',
       name: 'releases',
       component: ReleasesView
+    },
+    {
+      path: '/gallery',
+      name: 'gallery',
+      component: GalleryView
     }
   ]
 })

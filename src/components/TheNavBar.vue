@@ -25,7 +25,7 @@
           :class="{ active: activeLink === 3 }"
           @click="activeLink = 3"
           class="nav-link"
-          >Live Dates</RouterLink
+          >Live</RouterLink
         >
       </li>
       <li>
@@ -57,9 +57,18 @@
       </li>
       <li>
         <RouterLink
-          to="/contact"
+          to="/gallery"
           :class="{ active: activeLink === 7 }"
           @click="activeLink = 7"
+          class="nav-link"
+          >Gallery</RouterLink
+        >
+      </li>
+      <li>
+        <RouterLink
+          to="/contact"
+          :class="{ active: activeLink === 8 }"
+          @click="activeLink = 8"
           class="nav-link"
           >Contact</RouterLink
         >

@@ -9,7 +9,6 @@ import TheFooter from './components/TheFooter.vue'
     <TheHeader />
     <RouterView />
     <TheFooter />
-    <scroll-to-top />
   </main>
 </template>
 

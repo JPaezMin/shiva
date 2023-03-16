@@ -1,25 +1,27 @@
 <template>
-  <nav class="main-nav" aria-label="Main">
-    <ul class="text-black main-nav__list flex space-x-4">
-      <li>
+  <nav class="main-nav border border-black py-2 px-2" aria-label="Main">
+    <ul
+      class="text-black main-nav__list flex flex-wrap justify-center items-center lg:justify-start sm:space-x-6"
+    >
+      <li class="w-full sm:w-auto text-center">
         <a href="https://twitter.com/shivafeshareki" target="_blank" class="nav-link">Twitter</a>
       </li>
-      <li>
+      <li class="w-full sm:w-auto text-center">
         <a href="https://www.facebook.com/shivafeshareki/" target="_blank" class="nav-link"
           >Facebook</a
         >
       </li>
-      <li>
+      <li class="w-full sm:w-auto text-center">
         <a href="https://www.instagram.com/shivafeshareki/" target="_blank" class="nav-link"
           >Instagram</a
         >
       </li>
-      <li>
+      <li class="w-full sm:w-auto text-center">
         <a href="https://soundcloud.com/shivafeshareki" target="_blank" class="nav-link"
           >SoundCloud</a
         >
       </li>
-      <li>
+      <li class="w-full sm:w-auto text-center">
         <a
           href="https://open.spotify.com/artist/0mA6mzb38KmmVdSN80q28k?dl_branch=1&si=xSAcjIQ_TD-gyjmo4byUoQ&nd=1"
           target="_blank"
@@ -27,7 +29,7 @@
           >Spotify</a
         >
       </li>
-      <li>
+      <li class="w-full sm:w-auto text-center">
         <a href="https://linktr.ee/shivafeshareki" class="nav-link" target="_blank">LinkTree</a>
       </li>
     </ul>
