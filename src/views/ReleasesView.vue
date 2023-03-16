@@ -1,7 +1,7 @@
 <template>
   <h2>Releases</h2>
   <div class="grid gap-4 sm:grid-cols-1 md:grid-cols-2 mt-10">
-    <article class="flex items-center p-4 sm:my-4 lg:my-8 border border-black shadow-md">
+    <article class="flex items-center p-4 sm:my-4 border border-black shadow-md">
       <img src="../assets/images/turning-world.jpeg" alt="Record cover" class="w-40 h-auto mr-8" />
       <div>
         <p class="text-base text-black font-bold mb-2">Turning World</p>
@@ -10,7 +10,7 @@
         </div>
       </div>
     </article>
-    <article class="flex items-center p-4 sm:my-4 lg:my-8 border border-black shadow-md">
+    <article class="flex items-center p-4 sm:my-4 border border-black shadow-md">
       <img src="../assets/images/other-world.jpg" alt="Record cover" class="w-40 h-auto mr-8" />
       <div>
         <p class="text-base text-black font-bold mb-2">Other World</p>
@@ -19,7 +19,7 @@
         </div>
       </div>
     </article>
-    <article class="flex items-center p-4 sm:my-4 lg:my-8 border border-black shadow-md">
+    <article class="flex items-center p-4 sm:my-4 border border-black shadow-md">
       <img src="../assets/images/nebula.png" alt="Record cover" class="w-40 h-auto mr-8" />
       <div>
         <p class="text-base text-black font-bold mb-2">Nebula</p>
@@ -28,7 +28,7 @@
         </div>
       </div>
     </article>
-    <article class="flex items-center p-4 sm:my-4 lg:my-8 border border-black shadow-md">
+    <article class="flex items-center p-4 sm:my-4 border border-black shadow-md">
       <img src="../assets/images/vapour.jpeg" alt="Record cover" class="w-40 h-auto mr-8" />
       <div>
         <p class="text-base text-black font-bold mb-2">Vapour</p>
