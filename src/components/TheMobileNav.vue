@@ -122,7 +122,7 @@ watchEffect(() => {
     z-index: 1;
     & > div {
       align-items: center;
-      background: white;
+      background: black;
       display: flex;
       flex: none;
       height: 2px;

@@ -93,8 +93,11 @@
     </p>
     <p>-Jason Noghani</p>
   </div>
+  <TheScrollToTop />
 </template>
 
-<script setup></script>
+<script setup>
+import TheScrollToTop from '@/components/TheScrollToTop.vue'
+</script>
 
 <style lang="scss" scoped></style>

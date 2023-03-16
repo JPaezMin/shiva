@@ -1,6 +1,6 @@
 <template>
   <nav aria-label="Main">
-    <ul class="flex justify-end space-x-4 capitalize">
+    <ul class="text-black flex justify-end space-x-4 capitalize">
       <li>
         <RouterLink
           to="/about"
@@ -89,6 +89,7 @@ html:not(.touch) nav a:hover {
   text-align: left;
   text-decoration: none;
   transition: color 0.2s ease;
+  font-weight: 600;
   &:after {
     background: transparent;
     content: '';

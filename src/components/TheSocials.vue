@@ -1,6 +1,6 @@
 <template>
   <nav class="main-nav" aria-label="Main">
-    <ul class="main-nav__list flex space-x-4">
+    <ul class="text-black main-nav__list flex space-x-4">
       <li>
         <a href="https://twitter.com/shivafeshareki" target="_blank" class="nav-link">Twitter</a>
       </li>
@@ -23,10 +23,13 @@
         <a
           href="https://open.spotify.com/artist/0mA6mzb38KmmVdSN80q28k?dl_branch=1&si=xSAcjIQ_TD-gyjmo4byUoQ&nd=1"
           target="_blank"
+          class="nav-link"
           >Spotify</a
         >
       </li>
-      <li><a href="https://linktr.ee/shivafeshareki" target="_blank">LinkTree</a></li>
+      <li>
+        <a href="https://linktr.ee/shivafeshareki" class="nav-link" target="_blank">LinkTree</a>
+      </li>
     </ul>
   </nav>
 </template>

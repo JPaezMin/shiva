@@ -3,8 +3,8 @@
     <h2>Media</h2>
     <article class="mt-12">
       <div class="flex justify-center items-center mb-6">
-        <div class="border-white rounded-lg border">
-          <h3 class="text-white font-bold text-xl p-2">Fact Live presents Shiva Feshareki</h3>
+        <div class="border-black rounded-lg border">
+          <h3 class="text-black font-bold text-xl p-2">Fact Live presents Shiva Feshareki</h3>
         </div>
       </div>
       <iframe
@@ -20,8 +20,8 @@
     </article>
     <article class="mt-12">
       <div class="flex justify-center items-center mb-6">
-        <div class="border-white rounded-lg border">
-          <h3 class="text-white font-bold text-xl p-2">Venus / Zohreh</h3>
+        <div class="border-black rounded-lg border">
+          <h3 class="text-black font-bold text-xl p-2">Venus / Zohreh</h3>
         </div>
       </div>
       <iframe
@@ -36,8 +36,8 @@
     </article>
     <article class="mt-12">
       <div class="flex justify-center items-center mb-6">
-        <div class="border-white rounded-lg border">
-          <h3 class="text-white font-bold text-xl p-2">
+        <div class="border-black rounded-lg border">
+          <h3 class="text-black font-bold text-xl p-2">
             Edited X Amoenus present: Shiva Feshareki
           </h3>
         </div>
@@ -54,8 +54,8 @@
     </article>
     <article class="mt-12">
       <div class="flex justify-center items-center mb-6">
-        <div class="border-white rounded-lg border">
-          <h3 class="text-white font-bold text-xl p-2">Liquid Pyramid</h3>
+        <div class="border-black rounded-lg border">
+          <h3 class="text-black font-bold text-xl p-2">Liquid Pyramid</h3>
         </div>
       </div>
       <iframe
@@ -70,8 +70,8 @@
     </article>
     <article class="mt-12">
       <div class="flex justify-center items-center mb-6">
-        <div class="border-white rounded-lg border">
-          <h3 class="text-white font-bold text-xl p-2">Dialog</h3>
+        <div class="border-black rounded-lg border">
+          <h3 class="text-black font-bold text-xl p-2">Dialog</h3>
         </div>
       </div>
       <iframe
@@ -86,8 +86,8 @@
     </article>
     <article class="mt-12">
       <div class="flex justify-center items-center mb-6">
-        <div class="border-white rounded-lg border">
-          <h3 class="text-white font-bold text-xl p-2">
+        <div class="border-black rounded-lg border">
+          <h3 class="text-black font-bold text-xl p-2">
             Shiva Feshareki & Kit Downes Live from St John-at-Hackney Church
           </h3>
         </div>
@@ -104,8 +104,8 @@
     </article>
     <article class="mt-12">
       <div class="flex justify-center items-center mb-6">
-        <div class="border-white rounded-lg border">
-          <h3 class="text-white font-bold text-xl p-2">
+        <div class="border-black rounded-lg border">
+          <h3 class="text-black font-bold text-xl p-2">
             Shiva Feshareki NTS Live at Uniqlo Tate Lates
           </h3>
         </div>
@@ -129,8 +129,11 @@
       <a href="https://www.nts.live/shows/shiva-feshareki" class="underline">NTS Website</a>
     </p>
   </div>
+  <TheScrollToTop />
 </template>
 
-<script setup></script>
+<script setup>
+import TheScrollToTop from '@/components/TheScrollToTop.vue'
+</script>
 
 <style lang="scss" scoped></style>

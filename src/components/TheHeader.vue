@@ -2,8 +2,8 @@
   <header class="flex relative justify-between items-center h-24 z-50">
     <div>
       <RouterLink to="/">
-        <h1 class="text-2xl font-bold logo">
-          Shiva Feshareki <span class="block text-xs font-normal">COMPOSER AND TURNTABLIST</span>
+        <h1 class="text-xl font-bold logo text-black uppercase">
+          Shiva Feshareki <span class="block text-xs font-bold">COMPOSER AND TURNTABLIST</span>
         </h1>
       </RouterLink>
     </div>
@@ -31,6 +31,5 @@ onUnmounted(() => {
 <style lang="scss" scoped>
 .logo {
   font-family: 'Bodoni Moda';
-  letter-spacing: 1px;
 }
 </style>

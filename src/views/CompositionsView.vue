@@ -7,8 +7,8 @@
     </p>
     <article class="mt-12">
       <div class="flex justify-center items-center mb-6">
-        <div class="border-white rounded-lg border">
-          <h3 class="text-white font-bold text-xl p-2">AetherWorld</h3>
+        <div class="border-black rounded-lg border">
+          <h3 class="text-black font-bold text-xl p-2">AetherWorld</h3>
         </div>
       </div>
       <iframe
@@ -52,8 +52,8 @@
     </article>
     <article class="mt-12">
       <div class="flex justify-center items-center mb-6">
-        <div class="border-white rounded-lg border">
-          <h3 class="text-white font-bold text-xl p-2">Nebula</h3>
+        <div class="border-black rounded-lg border">
+          <h3 class="text-black font-bold text-xl p-2">Nebula</h3>
         </div>
       </div>
       <iframe
@@ -97,8 +97,8 @@
     </article>
     <article class="mt-12">
       <div class="flex justify-center items-center mb-6">
-        <div class="border-white rounded-lg border">
-          <h3 class="text-white font-bold text-xl p-2">Opus Infinity</h3>
+        <div class="border-black rounded-lg border">
+          <h3 class="text-black font-bold text-xl p-2">Opus Infinity</h3>
         </div>
       </div>
       <iframe
@@ -142,8 +142,8 @@
     </article>
     <article class="mt-12">
       <div class="flex justify-center items-center mb-6">
-        <div class="border-white rounded-lg border">
-          <h3 class="text-white font-bold text-xl p-2">Seismic Flow Orchestra</h3>
+        <div class="border-black rounded-lg border">
+          <h3 class="text-black font-bold text-xl p-2">Seismic Flow Orchestra</h3>
         </div>
       </div>
       <iframe
@@ -187,8 +187,8 @@
     </article>
     <article class="mt-12">
       <div class="flex justify-center items-center mb-6">
-        <div class="border-white rounded-lg border">
-          <h3 class="text-white font-bold text-xl p-2">Venus / Zohreh</h3>
+        <div class="border-black rounded-lg border">
+          <h3 class="text-black font-bold text-xl p-2">Venus / Zohreh</h3>
         </div>
       </div>
       <iframe
@@ -232,8 +232,8 @@
     </article>
     <article class="mt-12">
       <div class="flex justify-center items-center mb-6">
-        <div class="border-white rounded-lg border">
-          <h3 class="text-white font-bold text-xl p-2">Dialog</h3>
+        <div class="border-black rounded-lg border">
+          <h3 class="text-black font-bold text-xl p-2">Dialog</h3>
         </div>
       </div>
       <iframe
@@ -278,8 +278,11 @@
     </article>
     <p class="mt-12 text-center">All work published under ©Shiva Feshareki.</p>
   </div>
+  <TheScrollToTop />
 </template>
 
-<script setup></script>
+<script setup>
+import TheScrollToTop from '@/components/TheScrollToTop.vue'
+</script>
 
 <style lang="scss" scoped></style>

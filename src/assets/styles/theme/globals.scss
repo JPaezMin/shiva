@@ -1,16 +1,18 @@
 p {
-  @apply text-lg md:text-xl lg:text-2xl xl:text-base leading-relaxed font-medium text-white;
+  @apply text-lg md:text-xl lg:text-2xl xl:text-base leading-relaxed font-medium text-black;
+  letter-spacing: 1px;
 }
 h2 {
+  @apply text-black;
   font-family: 'Bodoni Moda';
   font-weight: 700;
   font-size: 32px;
   text-align: center;
   display: block;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   position: relative;
   &:after {
-    background: white;
+    background: black;
     left: 50%;
     transform: translateX(-50%);
     width: 60px;
