@@ -70,7 +70,7 @@
 
 <script setup>
 import { ref } from 'vue'
-const activeLink = ref(1)
+const activeLink = ref(0)
 </script>
 
 <style lang="scss" scoped>
