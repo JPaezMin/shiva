@@ -69,6 +69,15 @@
         </li>
         <li class="mobile-nav__item">
           <RouterLink
+            to="/gallery"
+            :class="{ active: activeLink === 7 }"
+            @click="activeLink = 7"
+            class="main-nav__link"
+            >Gallery</RouterLink
+          >
+        </li>
+        <li class="mobile-nav__item">
+          <RouterLink
             to="/contact"
             :class="{ active: activeLink === 7 }"
             @click="activeLink = 7"

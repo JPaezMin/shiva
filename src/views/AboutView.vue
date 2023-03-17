@@ -1,5 +1,4 @@
 <template>
-  <img src="../assets/images/bio.jpeg" alt="Image" class="mb-12 w-full h-auto object-top" />
   <h2 class="mb-10">Shiva Feshareki</h2>
   <div class="text-sm lg:text-xs leading-6 lg:leading-8 space-y-4">
     <p>

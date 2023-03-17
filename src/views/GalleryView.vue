@@ -12,10 +12,15 @@
     <div
       v-if="isModalVisible"
       class="fixed top-0 left-0 w-screen h-screen flex justify-center items-center bg-gray-800 bg-opacity-75"
+      :style="{ pointerEvents: isModalVisible ? 'auto' : 'none' }"
       @click.self="hideModal"
     >
-      <div class="max-w-4xl max-h-full overflow-hidden flex justify-center items-center">
-        <img :src="modalImage" alt="Modal Image" class="max-w-full max-h-[700px] object-contain" />
+      <div class="max-w-4xl max-h-full overflow-hidden flex justify-center items-center sm:p-10">
+        <img
+          :src="modalImage"
+          alt="Modal Image"
+          class="max-w-full sm:max-h-[500px] lg:max-h-[700px] object-contain"
+        />
       </div>
     </div>
   </div>
@@ -48,15 +53,19 @@ const showModal = (index) => {
 const hideModal = () => {
   isModalVisible.value = false
   modalImage.value = ''
-  document.body.classList.remove('overflow-hidden')
+  document.body.classList.remove('overflow-hidden', 'pointer-events-none')
 }
 onUpdated(() => {
   if (isModalVisible.value) {
-    document.body.classList.add('overflow-hidden')
+    document.body.classList.add('overflow-hidden', 'pointer-events-none')
   } else {
-    document.body.classList.remove('overflow-hidden')
+    document.body.classList.remove('overflow-hidden', 'pointer-events-none')
   }
 })
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+.fixed {
+  pointer-events: none;
+}
+</style>

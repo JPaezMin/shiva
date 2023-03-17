@@ -30,6 +30,9 @@
         >
       </li>
       <li class="w-full sm:w-auto text-center">
+        <a href="https://shivafeshareki.bandcamp.com/" target="_blank" class="nav-link">Bandcamp</a>
+      </li>
+      <li class="w-full sm:w-auto text-center">
         <a href="https://linktr.ee/shivafeshareki" class="nav-link" target="_blank">LinkTree</a>
       </li>
     </ul>
