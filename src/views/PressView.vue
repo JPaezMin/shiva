@@ -33,9 +33,9 @@
       <div class="md:w-1/2 mb-8">
         <div class="border border-black shadow-md p-6">
           <blockquote class="italic text-black mb-4">
-            "Contemporary Album of the Month for Turning World (1022)"
+            "Contemporary Album of the Month for Turning World (2022)"
           </blockquote>
-          <p class="text-black font-bold mb-2 font-bold">
+          <p class="text-black font-bold mb-2">
             <a
               href="https://www.theguardian.com/music/1022/may/27/shiva-feshareki-turning-world-review-daphne-oram-nmc"
               target="_blank"
@@ -68,7 +68,36 @@
             turntable virtuoso Shiva Feshareki, who sent blasts of electronic sound rippling round
             the hall. That was fresh, exciting, provocative and like nothing else in these Proms."
           </blockquote>
-          <p class="text-black font-bold mb-2">- The Times</p>
+          <p class="text-black font-bold mb-2">
+            <a
+              href="https://www.theguardian.com/music/2022/may/21/shiva-feshareki-turning-world-review-helen-charlston-battle-cry-she-speaks-toby-carr-sticky-notes-podcast-joshua-weilerstein"
+              target="_blank"
+              rel="noopener"
+              >- The Observer</a
+            >
+          </p>
+        </div>
+      </div>
+      <div class="md:w-1/2 mb-8">
+        <div class="border border-black shadow-md p-6">
+          <blockquote class="italic text-black mb-4">"Restless invention...."</blockquote>
+          <p class="text-black font-bold mb-2">
+            <a
+              href="https://www.theguardian.com/music/2022/may/21/shiva-feshareki-turning-world-review-helen-charlston-battle-cry-she-speaks-toby-carr-sticky-notes-podcast-joshua-weilerstein"
+              target="_blank"
+              rel="noopener"
+              >- The Observer</a
+            >
+          </p>
+        </div>
+      </div>
+      <div class="md:w-1/2 mb-8">
+        <div class="border border-black shadow-md p-6">
+          <blockquote class="italic text-black mb-4">
+            "A majestic composition that moves from introspective prayer to exulting invocation [on
+            Aetherworld from Turning World]."
+          </blockquote>
+          <p class="text-black font-bold mb-2">- The Wire</p>
         </div>
       </div>
     </div>
