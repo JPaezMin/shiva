@@ -120,6 +120,39 @@
         allowfullscreen
       ></iframe>
     </article>
+    <article class="mt-12">
+      <div class="flex justify-center items-center mb-6">
+        <div class="border-black rounded-lg border">
+          <h3 class="text-black font-bold text-xl p-2">
+            Shiva Feshareki, Opus Infinity | Ergon Ensemble & Shiva Feshareki, Behind the scenes
+          </h3>
+        </div>
+      </div>
+      <iframe
+        width="100%"
+        height="515"
+        src="https://www.youtube.com/embed/goqP1hMvRII"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen
+      ></iframe>
+    </article>
+    <article class="mt-12">
+      <div class="flex justify-center items-center mb-6">
+        <div class="border-black rounded-lg border">
+          <h3 class="text-black font-bold text-xl p-2">
+            Daphne Oram: Still Point - excerpt (Prom 13)
+          </h3>
+        </div>
+      </div>
+      <iframe
+        width="100%"
+        height="515"
+        frameborder="0"
+        src="https://www.bbc.co.uk/programmes/p06g8d0f/player"
+      ></iframe>
+    </article>
     <p class="text-center mt-12">
       To listen to more compositions, please visit Shiva’s
       <a href="https://soundcloud.com/shivafeshareki" class="underline">Soundcloud</a>

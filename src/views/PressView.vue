@@ -73,7 +73,7 @@
               href="https://www.theguardian.com/music/2022/may/21/shiva-feshareki-turning-world-review-helen-charlston-battle-cry-she-speaks-toby-carr-sticky-notes-podcast-joshua-weilerstein"
               target="_blank"
               rel="noopener"
-              >- The Observer</a
+              >- The Times</a
             >
           </p>
         </div>

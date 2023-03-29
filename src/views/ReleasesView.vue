@@ -1,7 +1,7 @@
 <template>
   <h2>Releases</h2>
   <div class="grid gap-4 sm:grid-cols-1 md:grid-cols-2 mt-10">
-    <article class="flex items-start p-4 sm:my-4 border border-black shadow-md">
+    <article class="flex items-start p-4 sm:my-4 border border-gray-200 shadow-md">
       <img src="../assets/images/turning-world.jpeg" alt="Record cover" class="w-40 h-auto mr-4" />
       <div class="flex flex-col h-full">
         <p class="text-base text-black font-bold">Turning World</p>
@@ -14,7 +14,7 @@
         >
       </div>
     </article>
-    <article class="flex items-start p-4 sm:my-4 border border-black shadow-md">
+    <article class="flex items-start p-4 sm:my-4 border border-gray-200 shadow-md">
       <img src="../assets/images/other-world.jpg" alt="Record cover" class="w-40 h-auto mr-4" />
       <div class="flex flex-col h-full">
         <p class="text-base text-black font-bold">Other World</p>
@@ -27,7 +27,7 @@
         >
       </div>
     </article>
-    <article class="flex items-start p-4 sm:my-4 border border-black shadow-md">
+    <article class="flex items-start p-4 sm:my-4 border border-gray-200 shadow-md">
       <img src="../assets/images/nebula.png" alt="Record cover" class="w-40 h-auto mr-4" />
       <div class="flex flex-col h-full">
         <p class="text-base text-black font-bold">Nebula</p>
@@ -40,7 +40,7 @@
         >
       </div>
     </article>
-    <article class="flex items-start p-4 sm:my-4 border border-black shadow-md">
+    <article class="flex items-start p-4 sm:my-4 border border-gray-200 shadow-md">
       <img src="../assets/images/vapour.jpeg" alt="Record cover" class="w-40 h-auto mr-8" />
       <div class="flex flex-col h-full">
         <p class="text-base text-black font-bold">Vapour</p>
@@ -53,7 +53,7 @@
         >
       </div>
     </article>
-    <article class="flex items-start p-4 sm:my-4 border border-black">
+    <article class="flex items-start p-4 sm:my-4 border border-gray-200 shadow-md">
       <img src="../assets/images/new-forms.jpeg" alt="Record cover" class="w-40 h-auto mr-4" />
       <div class="flex flex-col h-full">
         <p class="text-base text-black font-bold mb-2">New Forms</p>
@@ -66,8 +66,12 @@
         >
       </div>
     </article>
-    <article class="flex items-start p-4 sm:my-4 border border-black">
-      <img src="../assets/images/new-forms.jpeg" alt="Record cover" class="w-40 h-auto mr-4" />
+    <article class="flex items-start p-4 sm:my-4 border border-gray-200 shadow-md">
+      <img
+        src="../assets/images/new-forms-remixes.jpeg"
+        alt="Record cover"
+        class="w-40 h-auto mr-4"
+      />
       <div class="flex flex-col h-full">
         <p class="text-base text-black font-bold mb-2">New Forms (Remixes)</p>
         <p class="text-base text-black font-bold mb-2">Resist AV, 2021</p>

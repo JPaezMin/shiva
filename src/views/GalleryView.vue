@@ -42,7 +42,16 @@ const images = [
   { id: 11, src: '/image-gallery/10.jpeg' },
   { id: 12, src: '/image-gallery/11.jpeg' },
   { id: 13, src: '/image-gallery/12.jpeg' },
-  { id: 14, src: '/image-gallery/13.jpeg' }
+  { id: 14, src: '/image-gallery/13.jpeg' },
+  { id: 15, src: '/image-gallery/14.jpeg' },
+  { id: 16, src: '/image-gallery/15.jpeg' },
+  { id: 17, src: '/image-gallery/16.jpeg' },
+  { id: 18, src: '/image-gallery/17.jpeg' },
+  { id: 19, src: '/image-gallery/18.jpeg' },
+  { id: 20, src: '/image-gallery/19.jpeg' },
+  { id: 21, src: '/image-gallery/20.jpeg' },
+  { id: 22, src: '/image-gallery/21.jpeg' },
+  { id: 23, src: '/image-gallery/22.jpeg' }
 ]
 const isModalVisible = ref(false)
 const modalImage = ref('')

@@ -1,96 +1,93 @@
 <template>
-  <h2 class="mb-10">Shiva Feshareki</h2>
+  <h2 class="mb-10">Studio Feshareki</h2>
+  <div class="text-sm lg:text-xs leading-6 lg:leading-8 space-y-4">
+    <p>
+      Studio Feshareki is a sound art studio producing live performances, digital projects and
+      installation works centered around the bold compositions of Shiva Feshareki.
+    </p>
+    <p>
+      Through her studio, Shiva Feshareki brings modular immersive sound systems into different
+      spaces - from concert halls, exhibitions, to unusual places - where she performs her unique
+      spatial compositions that intertwine ambisonic turntablism with immersive acoustic
+      composition. The works manifest live-in-the-moment, encapsulating the qualities and
+      specifications of each space to create epic experiences that bring the place to life in new
+      dimensions.
+    </p>
+  </div>
+  <h2 class="mt-10 mb-10">Shiva Feshareki</h2>
   <div class="text-sm lg:text-xs leading-6 lg:leading-8 space-y-4">
     <p>
       Shiva Feshareki (1987) is a British-Iranian composer, artist and turntablist, described as
       “the most cutting-edge expression of turntablism” and as “one of the most astonishing acts of
-      musical alchemy of the last decade” (BBC Radio 3’s Tom Service). Over the last decade, she has
-      been a pioneer at the leading edge of both contemporary classical and electronic music scenes.
+      musical alchemy of the last decade” (BBC Radio 3). Over the last decade, she has been a
+      pioneer at the leading edge of both contemporary classical and electronic music scenes.
     </p>
     <p>
-      She holds a Doctorate of Music in composition from the Royal College of Music (2017), and is
-      winner of the BBC Young Composer’s Award (2004), The Royal Philharmonic Society Composition
-      Prize (2009) and the Ivor Novello Award for Innovation (2017). Shiva is currently a Visiting
-      Fellow at Oxford University with the Electronic Music Practice Research group (EMPRes) and
-      funded by The Oxford Research Centre in the Humanities (TORCH), researching and presenting
-      state-of-the-art spatial and ambisonic electronic composition.
+      Her inventive approach has ignited a revolution in performance and spatial composition, paving
+      the way for a new wave of artists and immersive productions, bringing together diverse
+      audiences in a cross-pollination that has changed the landscape of the industry.
+    </p>
+    <p>
+      This is most apparent in her extensive catalog of works from her earlier compositions such as
+      GABA-analogue (2015), O (2016) and Opus Infinity (2019) where orchestra’s are spatialized and
+      entered by the audience, to her latest projects including the “mind-bending” TRANSFIGURE
+      (2022), the first ever live ambisonic composition brought to London’s Barbican Centre (Sunday
+      Times). Her album Turning World was labelled the Guardian’s Contemporary Album of the Month
+      following the critically acclaimed performance of her Aetherworld (2021) at the BBC Proms,
+      where she stood inside the audience arena “sending blasts of electronic sound rippling round
+      the hall” in duet with the BBC Singers (The Times). Sama-zan Trip (2022) was premiered by
+      Shiva with the Vienna Radio Symphony Orchestra combining Live Ambisonic Turntablism with
+      Symphony Orchestra in a highly ambitious spatial work installed inside the Helmut List Halle
+      (Graz).
+    </p>
+    <p>
+      As an innovator, experimenter and a self-described sonic architect, Shiva is fascinated by the
+      materiality of sound. Her intrepid exploration of a 360-degree sound world encompasses
+      compositions for orchestral, solo, choral, chamber, electronic and interdisciplinary
+      installation works. She also composes for ‘note reading’ ensembles where she re-theorises
+      relationships between performer and audience, dissolving physical, historical, and sonic
+      boundaries. In her live electronic compositions, she fearlessly warps time and space through
+      the boundless possibility of her turntables, masterfully contorting samples of her own
+      compositions along with peculiarities from her LP collection. She employs an array of
+      technology from vintage analogue tape echo, vinyl turntables, CDJs, to state-of-the-art
+      ambisonic technology to create experiences that reveal the fluid and infinite interplay
+      between sound and the physics of space.
+    </p>
+    <p>
+      Her acoustic and electronic compositions are deeply intertwined, often combining fixed and
+      improvised elements responding to one another and intricately influenced by the acoustics and
+      energy of a space. This hybrid approach has placed Shiva at the forefront of electronic,
+      acoustic and spatial composition. The underlying philosophy of Shiva’s work is equally as
+      profound as the music she produces. Exceedingly aware of the cultural crises, and the
+      self-actualisation she has had to manifest to confront conventions as an ethnic minority
+      female in a largely white and patriarchal music culture, her music is a direct response to the
+      issues many of us currently face as artists and as humans.
     </p>
     <p>
       She has performed extensively across the world in concert halls, art galleries, festivals and
-      raves, with notable appearances at BBC Proms (Royal Albert Hall), The Tanks at Tate Modern,
-      Southbank, Barcelona’s Sonar Festival, the Moscow Museum of Modern Art (VAC Foundation), Casa
-      Del Lago (Mexico), Hyperreality Festival of Club Culture (Vienna), Mutek in Montreal,
-      Artheater/Frau Musica Nova (Cologne), Maerzmusik (Kraftwerk, Berlin), Amsterdam Dance Event
-      (ADE), Stavanger Konserthus, and Hellerau (European Centre for the Arts). She most recently
-      featured at the Design Museum Electronic Music Exhibition, which was held in London until the
-      end of May 2021.
+      raves, with notable appearances at BBC Proms (Royal Albert Hall, London), the Tanks at Tate
+      Modern (London), Southbank Centre (London), Barbican Centre (London), De Bijloke (Ghent),
+      Helmut List Halle (Graz), Dom-im-Berg (Graz), Sonar Festival (Barcelona), the Moscow Museum of
+      Modern Art (VAC Foundation, Moscow), Casa Del Lago (Mexico City), Mutek (Montreal),
+      Hyperreality Festival of Club Culture / Vienna Festwochen (Vienna), Maerzmusik / Berliner
+      Festspiele (Kraftwerk, Berlin), Hellerau (European Centre for the Arts, Dresden),
+      Kunstfestspiele Herrenhausen (Hannover), Spor Festival (Aarhus), Amsterdam Dance Event,
+      Stavanger Konserthus and ​​SNF Nostos (Athens).
     </p>
     <p>
-      Shiva has also worked alongside a number of notable artists and ensembles including the London
-      Contemporary Orchestra, BBC Singers, BBC Concert Orchestra, London Sinfonietta, Vienna Radio
-      Symphony Orchestra, National Youth Choir, London Philharmonic Orchestra, Aarhus Symphony
-      Orchestra, Ensemble Modern, Netherlands Chamber Choir, Düsseldorfer Symphoniker, Britten
-      Sinfonia, Haroon Mirza, Kit Downes, Natalie Clein, Simon Fisher-Turner, Akiko Ahrendt,
-      Microhm, Cathy Eastburn, Yoshi Sodeoka, Lee Gamble and Arlo Parks.
+      Shiva has performed her works alongside the BBC Singers, BBC Concert Orchestra, London
+      Sinfonietta, London Philharmonic Orchestra, London Contemporary Orchestra, Ensemble Modern,
+      Netherlands Chamber Choir, Vienna Radio Symphony Orchestra, Düsseldorfer Symphoniker, Haroon
+      Mirza, Yoshi Sodeoka and Arlo Parks to name just a few.
     </p>
     <p>
-      Describing Shiva’s music is far from straightforward, when the breadth of expression, and
-      range of compositions encompasses everything from orchestral, solo, choral, chamber,
-      electronic and interdisciplinary installation works. At the core of her work, Shiva creates
-      experiences that reveal the fluid and infinite interplay between sound and the physics of
-      space; the interconnection between the essential nature of sound and our living experiences.
-      Shiva uses an array of technology from vintage analogue tape echo, vinyl turntables, CDJs to
-      state-of-the-art 360° ambisonic technology. Her tools also extend beyond electronic
-      technology, using her own advanced 3D orchestration methods to score acoustic instruments in
-      spatialized form, described as “A terrific sonic experience… Among her musical ideas there’s
-      thrash metal and dance music, as well as marvellously fresh-sounding orchestral-gestures,
-      assaulting or beguiling the audience from all angles” (Richard Morrison - Chief music critic
-      of The Times).
+      In 2022, Shiva released her critically acclaimed album Turning World on NMC, earning the title
+      of the Guardian’s Contemporary Album of the Month. The Observer praised her for her “restless
+      invention” and described the record as “beautiful and bewitching”. BBC Music Magazine
+      described it as “a bold and fascinating Josquin-inspired sonic landscape”, labelling Shiva as
+      “the innovator who doesn't try to be original”.
     </p>
-    <p>
-      Undeniable influences include avant-garde electronic music of the late 20th Century, and
-      electronic dance music, which she cross-pollinates in a formidable and uncompromising manner.
-      This is best exemplified in her prowess as a turntablist, of which her talent mirrors that of
-      her extraordinary compositional abilities, and of which she has made radical contributions to
-      the art of turntabling – taking experimentation with the turntables to its limit, whilst still
-      producing music that is universally relatable across a diversity of audiences.
-    </p>
-    <p>
-      Two significant projects Shiva undertook in recent years include the realisation of Daphne
-      Oram’s visionary Still Point with the London Contemporary Orchestra at the 2018 BBC Proms,
-      which had been unheard since its inception in 1948, and also aiding in the organisation of
-      premieres of Eliane Radigue’s works, most notably curating a concert of her works within a
-      cave. Radigue and Oram are also two key influences on Shiva’s music, alongside Pauline
-      Oliveros, James Tenney, Iannis Xenakis, Jungle, Drum and Bass, IDM, Baroque and Classical
-      music, minimalism, analogue pop music, psychology, physics, geometry, architecture, philosophy
-      and hermeneutics!
-    </p>
-    <p>
-      Shiva’s underlying philosophy is equally as profound as the music she produces. Exceedingly
-      aware of the cultural crises, and the self-actualisation she has had to manifest to confront
-      conventions as an ethnic minority female in a largely white and patriarchal music culture, her
-      music is a direct response to the issues many of us currently face as artists and as humans.
-    </p>
-    <p>
-      Perhaps this is best reflected in her recent work OPUS INFINITY (2019) for turntables and
-      orchestra, where the performers (the Ensemble Modern), who perform from within the audience,
-      are positioned across the acoustic space in relation to the proportions of Fibonacci spirals,
-      which also govern the musical material. The possibilities within this physical, musical and
-      spiritual spiral are infinite, and each performance of the work becomes an entirely new
-      experience, influenced by the performance space, the performers, and the musical responses
-      generated. To accomplish something this daring, Shiva uses vinyl turntables with vintage
-      analogue tape echo, CDJs and state-of-the-art 360° ambisonic technology, that not only make it
-      possible for her to open up an extensive and otherworldly soundscape, but also to control
-      performer reactions in real time, using their positions across the music space to aid in this
-      qualitative calculation.
-    </p>
-    <p>
-      Shiva’s latest output includes a focus on works for 3D immersive electronics and choir which
-      include ‘Aetherworld’ premiered by Shiva and the BBC Singers at the Royal Albert Hall for the
-      BBC Proms 2021. ‘Aestherworld’ was later featured on Shiva’s critically acclaimed album
-      ‘Turning World’, listed as The Guardian’s Contemporary Album of the Month.
-    </p>
-    <p>-Jason Noghani</p>
+    <p>By Alec Curtis, Jason Noghani & Kate Walker</p>
   </div>
   <TheScrollToTop />
 </template>
