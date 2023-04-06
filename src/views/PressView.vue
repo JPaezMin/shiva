@@ -2,8 +2,8 @@
   <div class="max-w-4xl mx-auto">
     <h2>Press</h2>
     <div class="flex flex-col items-center mt-10">
-      <div class="md:w-1/2 mb-8">
-        <div class="border border-black shadow-md p-6">
+      <div class="md:w-1/2">
+        <div class="p-6">
           <blockquote class="italic text-black mb-4">
             "The innovator who doesn’t try to be original."
           </blockquote>
@@ -17,8 +17,8 @@
           </p>
         </div>
       </div>
-      <div class="md:w-1/2 mb-8">
-        <div class="border border-black shadow-md p-6">
+      <div class="md:w-1/2">
+        <div class="p-6">
           <blockquote class="italic text-black mb-4">"A turntable virtuoso..."</blockquote>
           <p class="text-black font-bold mb-2">
             <a
@@ -30,8 +30,8 @@
           </p>
         </div>
       </div>
-      <div class="md:w-1/2 mb-8">
-        <div class="border border-black shadow-md p-6">
+      <div class="md:w-1/2">
+        <div class="p-6">
           <blockquote class="italic text-black mb-4">
             "Contemporary Album of the Month for Turning World (2022)"
           </blockquote>
@@ -45,8 +45,8 @@
           </p>
         </div>
       </div>
-      <div class="md:w-1/2 mb-8">
-        <div class="border border-black shadow-md p-6">
+      <div class="md:w-1/2">
+        <div class="p-6">
           <blockquote class="italic text-black mb-4">
             "Both works collapse time and genre, morphing lush melodies into electrified echoes to
             showcase how electronics can transform acoustic instrumentations into unexpected sounds"
@@ -61,8 +61,8 @@
           </p>
         </div>
       </div>
-      <div class="md:w-1/2 mb-8">
-        <div class="border border-black shadow-md p-6">
+      <div class="md:w-1/2">
+        <div class="p-6">
           <blockquote class="italic text-black mb-4">
             "The evening culminated in a stupendous fantasy [Aetherworld] on a Josquin motet by the
             turntable virtuoso Shiva Feshareki, who sent blasts of electronic sound rippling round
@@ -78,8 +78,8 @@
           </p>
         </div>
       </div>
-      <div class="md:w-1/2 mb-8">
-        <div class="border border-black shadow-md p-6">
+      <div class="md:w-1/2">
+        <div class="p-6">
           <blockquote class="italic text-black mb-4">"Restless invention...."</blockquote>
           <p class="text-black font-bold mb-2">
             <a
@@ -91,8 +91,8 @@
           </p>
         </div>
       </div>
-      <div class="md:w-1/2 mb-8">
-        <div class="border border-black shadow-md p-6">
+      <div class="md:w-1/2">
+        <div class="p-6">
           <blockquote class="italic text-black mb-4">
             "A majestic composition that moves from introspective prayer to exulting invocation [on
             Aetherworld from Turning World]."

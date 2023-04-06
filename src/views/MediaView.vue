@@ -71,7 +71,7 @@
     <article class="mt-12">
       <div class="flex justify-center items-center mb-6">
         <div class="border-black rounded-lg border">
-          <h3 class="text-black font-bold text-xl p-2">Dialog</h3>
+          <h3 class="text-black font-bold text-xl p-2">Vapour</h3>
         </div>
       </div>
       <iframe
