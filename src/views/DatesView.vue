@@ -16,7 +16,7 @@
         <a
           href="https://www.kingsplace.co.uk/whats-on/contemporary/zubin-kanga-with-shiva-feshareki/"
           class="bg-black text-base text-white py-2 px-4 inline-block hover:bg-gray-700"
-          >TICKETS AND MORE INFO</a
+          >Tickets and More Info</a
         >
       </article>
       <article
@@ -33,7 +33,7 @@
         <a
           href="https://www.kingsplace.co.uk/whats-on/contemporary/zubin-kanga-with-shiva-feshareki/"
           class="bg-black text-base text-white py-2 px-4 inline-block hover:bg-gray-700"
-          >TICKETS AND MORE INFO</a
+          >Tickets and More Info</a
         >
       </article>
     </div>
@@ -52,7 +52,7 @@
         <a
           href="https://ra.co/events/1659976"
           class="bg-black text-base text-white py-2 px-4 inline-block hover:bg-gray-700 text-center"
-          >TICKETS AND MORE INFO</a
+          >Tickets and More Info</a
         >
       </article>
       <article
@@ -68,7 +68,7 @@
         <a
           href="https://www.rwcmd.ac.uk/events/2023-03/hermes-experiment"
           class="bg-black text-base text-white py-2 px-4 inline-block hover:bg-gray-700"
-          >TICKETS AND MORE INFO</a
+          >Tickets and More Info</a
         >
       </article>
       <article
@@ -81,7 +81,7 @@
         <a
           href="https://www.uniarts.fi/tapahtumat/marianna-henriksson-keskisavel/?utm_source=facebook&utm_medium=event&utm_campaign=keskisavel-info"
           class="bg-black text-base text-white py-2 px-4 inline-block hover:bg-gray-700 text-center"
-          >TICKETS AND MORE INFO</a
+          >Tickets and More Info</a
         >
       </article>
       <article
@@ -92,7 +92,7 @@
         <a
           href="https://www.uniarts.fi/tapahtumat/marianna-henriksson-keskisavel/?utm_source=facebook&utm_medium=event&utm_campaign=keskisavel-info"
           class="bg-black text-base text-white py-2 px-4 inline-block hover:bg-gray-700 text-center"
-          >TICKETS AND MORE INFO</a
+          >Tickets and More Info</a
         >
       </article>
       <article
@@ -105,7 +105,7 @@
         <a
           href="https://www.bijloke.be/pQWVpSL/ear-to-the-ground-festival"
           class="bg-black text-base text-white py-2 px-4 inline-block hover:bg-gray-700 text-center"
-          >TICKETS AND MORE INFO</a
+          >Tickets and More Info</a
         >
       </article>
       <article
@@ -116,7 +116,7 @@
         <a
           href="https://www.torch.ox.ac.uk/event/sampling-the-city-shiva-feshareki-live-at-the-sheldonian"
           class="bg-black text-base text-white py-2 px-4 inline-block hover:bg-gray-700 text-center"
-          >TICKETS AND MORE INFO</a
+          >Tickets and More Info</a
         >
       </article>
       <article
@@ -127,7 +127,7 @@
         <a
           href="https://musikprotokoll.orf.at/en/2022/project/goat-song-project"
           class="bg-black text-base text-white py-2 px-4 inline-block hover:bg-gray-700 text-center"
-          >TICKETS AND MORE INFO</a
+          >Tickets and More Info</a
         >
       </article>
       <article
@@ -138,7 +138,7 @@
         <a
           href="https://www.southbankcentre.co.uk/whats-on/classical-music/xenakis-100"
           class="bg-black text-base text-white py-2 px-4 inline-block hover:bg-gray-700 text-center"
-          >TICKETS AND MORE INFO</a
+          >Tickets and More Info</a
         >
       </article>
       <article
@@ -149,7 +149,7 @@
         <a
           href="https://musikprotokoll.orf.at/en/2022/project/rso-wien-2022"
           class="bg-black text-base text-white py-2 px-4 inline-block hover:bg-gray-700 text-center"
-          >TICKETS AND MORE INFO</a
+          >Tickets and More Info</a
         >
       </article>
       <article
@@ -160,7 +160,7 @@
         <a
           href="https://www.sporfestival.dk/ukshiva"
           class="bg-black text-base text-white py-2 px-4 inline-block hover:bg-gray-700 text-center"
-          >TICKETS AND MORE INFO</a
+          >Tickets and More Info</a
         >
       </article>
       <article
@@ -171,7 +171,7 @@
         <a
           href="https://www.hellerau.org/en/event/torus-of-revolution/"
           class="bg-black text-base text-white py-2 px-4 inline-block hover:bg-gray-700 text-center"
-          >TICKETS AND MORE INFO</a
+          >Tickets and More Info</a
         >
       </article>
       <article
@@ -182,7 +182,7 @@
         <a
           href="https://stollerhall.com/whats-on/jess-gillam-with-manchester-camerata/"
           class="bg-black text-base text-white py-2 px-4 inline-block hover:bg-gray-700 text-center"
-          >TICKETS AND MORE INFO</a
+          >Tickets and More Info</a
         >
       </article>
       <article
@@ -193,7 +193,7 @@
         <a
           href="https://www.nederlandskamerkoor.nl/en/concertenreeks/ester/"
           class="bg-black text-base text-white py-2 px-4 inline-block hover:bg-gray-700 text-center"
-          >TICKETS AND MORE INFO</a
+          >Tickets and More Info</a
         >
       </article>
       <article
@@ -206,7 +206,7 @@
         <a
           href="https://www.snfnostos.org/en/2021/288/ergon-ensemble-and-shiva-feshareki/"
           class="bg-black text-base text-white py-2 px-4 inline-block hover:bg-gray-700 text-center"
-          >TICKETS AND MORE INFO</a
+          >Tickets and More Info</a
         >
       </article>
       <article
@@ -217,7 +217,7 @@
         <a
           href="https://www.bbc.co.uk/events/engrn3?gclid=Cj0KCQjw0K-HBhDDARIsAFJ6UGiPJBiLqipgEJTLGhkdsw9_wm4-S0zAc8gWanh5mf89LNayb5oklFQaAhI1EALw_wcB&gclsrc=aw.ds"
           class="bg-black text-base text-white py-2 px-4 inline-block hover:bg-gray-700 text-center"
-          >TICKETS AND MORE INFO</a
+          >Tickets and More Info</a
         >
       </article>
       <article
@@ -228,7 +228,7 @@
         <a
           href="https://3choirs.org/whats-on/national-youth-choir-of-great-britain/"
           class="bg-black text-base text-white py-2 px-4 inline-block hover:bg-gray-700 text-center"
-          >TICKETS AND MORE INFO</a
+          >Tickets and More Info</a
         >
       </article>
       <article
@@ -239,7 +239,7 @@
         <a
           href="https://kunstfestspiele.de/en/festival/archive/archive-2021.html"
           class="bg-black text-base text-white py-2 px-4 inline-block hover:bg-gray-700 text-center"
-          >TICKETS AND MORE INFO</a
+          >Tickets and More Info</a
         >
       </article>
       <article
@@ -250,7 +250,7 @@
         <a
           href="https://stollerhall.com/blog/bbc-radio-3-manchester-week-at-the-stoller-hall-2/"
           class="bg-black text-base text-white py-2 px-4 inline-block hover:bg-gray-700 text-center"
-          >TICKETS AND MORE INFO</a
+          >Tickets and More Info</a
         >
       </article>
       <article
@@ -261,7 +261,7 @@
         <a
           href="http://altspaceloop.chttp//www.refugia.kr/index_en.htmlom/exhibitions/refugia-2021"
           class="bg-black text-base text-white py-2 px-4 inline-block hover:bg-gray-700 text-center"
-          >TICKETS AND MORE INFO</a
+          >Tickets and More Info</a
         >
       </article>
       <article
@@ -272,7 +272,7 @@
         <a
           href="https://www.bbc.co.uk/programmes/m000q38j"
           class="bg-black text-base text-white py-2 px-4 inline-block hover:bg-gray-700 text-center"
-          >TICKETS AND MORE INFO</a
+          >Tickets and More Info</a
         >
       </article>
       <article
@@ -285,7 +285,7 @@
         <a
           href="https://hcmf.co.uk/"
           class="bg-black text-base text-white py-2 px-4 inline-block hover:bg-gray-700 text-center"
-          >TICKETS AND MORE INFO</a
+          >Tickets and More Info</a
         >
       </article>
       <article
@@ -296,7 +296,7 @@
         <a
           href="https://designmuseum.org/exhibitions/electronic-from-kraftwerk-to-the-chemical-brothers/electronic-catch-up"
           class="bg-black text-base text-white py-2 px-4 inline-block hover:bg-gray-700 text-center"
-          >TICKETS AND MORE INFO</a
+          >Tickets and More Info</a
         >
       </article>
     </div>

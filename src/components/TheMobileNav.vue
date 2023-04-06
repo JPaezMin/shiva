@@ -194,7 +194,6 @@ watchEffect(() => {
     letter-spacing: 1px;
     padding: 0.5rem;
     text-align: center;
-    text-transform: uppercase;
     transition: color 0.2s ease;
     word-spacing: 1px;
     .contact-sales-button {
