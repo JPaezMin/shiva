@@ -4,7 +4,9 @@
     <article class="mt-12">
       <div class="flex justify-center items-center mb-6">
         <div class="border-black rounded-lg border">
-          <h3 class="text-black font-bold text-xl p-2">Fact Live presents Shiva Feshareki</h3>
+          <h3 class="text-black font-bold text-xl p-2 text-center">
+            Fact Live presents Shiva Feshareki
+          </h3>
         </div>
       </div>
       <iframe
@@ -21,7 +23,7 @@
     <article class="mt-12">
       <div class="flex justify-center items-center mb-6">
         <div class="border-black rounded-lg border">
-          <h3 class="text-black font-bold text-xl p-2">Venus / Zohreh</h3>
+          <h3 class="text-black font-bold text-xl p-2 text-center">Venus / Zohreh</h3>
         </div>
       </div>
       <iframe
@@ -37,7 +39,7 @@
     <article class="mt-12">
       <div class="flex justify-center items-center mb-6">
         <div class="border-black rounded-lg border">
-          <h3 class="text-black font-bold text-xl p-2">
+          <h3 class="text-black font-bold text-xl p-2 text-center">
             Edited X Amoenus present: Shiva Feshareki
           </h3>
         </div>
@@ -55,7 +57,7 @@
     <article class="mt-12">
       <div class="flex justify-center items-center mb-6">
         <div class="border-black rounded-lg border">
-          <h3 class="text-black font-bold text-xl p-2">Liquid Pyramid</h3>
+          <h3 class="text-black font-bold text-xl p-2 text-center">Liquid Pyramid</h3>
         </div>
       </div>
       <iframe
@@ -71,7 +73,7 @@
     <article class="mt-12">
       <div class="flex justify-center items-center mb-6">
         <div class="border-black rounded-lg border">
-          <h3 class="text-black font-bold text-xl p-2">Vapour</h3>
+          <h3 class="text-black font-bold text-xl p-2 text-center">Vapour</h3>
         </div>
       </div>
       <iframe
@@ -87,7 +89,7 @@
     <article class="mt-12">
       <div class="flex justify-center items-center mb-6">
         <div class="border-black rounded-lg border">
-          <h3 class="text-black font-bold text-xl p-2">
+          <h3 class="text-black font-bold text-xl p-2 text-center">
             Shiva Feshareki & Kit Downes Live from St John-at-Hackney Church
           </h3>
         </div>
@@ -105,7 +107,7 @@
     <article class="mt-12">
       <div class="flex justify-center items-center mb-6">
         <div class="border-black rounded-lg border">
-          <h3 class="text-black font-bold text-xl p-2">
+          <h3 class="text-black font-bold text-xl p-2 text-center">
             Shiva Feshareki NTS Live at Uniqlo Tate Lates
           </h3>
         </div>
@@ -123,7 +125,7 @@
     <article class="mt-12">
       <div class="flex justify-center items-center mb-6">
         <div class="border-black rounded-lg border">
-          <h3 class="text-black font-bold text-xl p-2">
+          <h3 class="text-black font-bold text-xl p-2 text-center">
             Shiva Feshareki, Opus Infinity | Ergon Ensemble & Shiva Feshareki, Behind the scenes
           </h3>
         </div>
@@ -141,7 +143,7 @@
     <article class="mt-12">
       <div class="flex justify-center items-center mb-6">
         <div class="border-black rounded-lg border">
-          <h3 class="text-black font-bold text-xl p-2">
+          <h3 class="text-black font-bold text-xl p-2 text-center">
             Daphne Oram: Still Point - excerpt (Prom 13)
           </h3>
         </div>
