@@ -22,7 +22,7 @@
         <p class="text-base text-black font-bold mt-2">Digital</p>
         <a
           href="https://nycgb.org.uk/"
-          class="bg-black text-white py-2 px-4 hover:bg-gray-700 mt-auto w-[70px] text-center"
+          class="bg-black text-white py-2 hover:bg-gray-700 mt-auto w-[70px] text-center"
           >Listen</a
         >
       </div>
