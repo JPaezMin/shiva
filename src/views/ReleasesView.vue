@@ -41,7 +41,7 @@
       </div>
     </article>
     <article class="flex items-start p-4 sm:my-4 border border-gray-200 shadow-md">
-      <img src="../assets/images/vapour.jpeg" alt="Record cover" class="w-40 h-auto mr-8" />
+      <img src="../assets/images/vapour.jpeg" alt="Record cover" class="w-40 h-auto mr-4" />
       <div class="flex flex-col h-full">
         <p class="text-base text-black font-bold">Vapour</p>
         <p class="text-base text-black font-bold mt-2">SA Recordings, 2019</p>

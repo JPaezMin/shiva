@@ -27,8 +27,8 @@
           >King’s Place, London, United Kingdom.</span
         >
         <span class="text-base mb-2 block text-center"
-          >World premiere of ‘Seismic Wave Orchestra’ (2020). Shiva Feshareki (Composition &
-          Ambisonic Turntables). Sean Shibe (Electric Guitar).</span
+          >UK premiere of ‘Seismic Wave Orchestra’ (2020). Shiva Feshareki (Composition & Ambisonic
+          Turntables). Sean Shibe (Electric Guitar).</span
         >
         <a
           href="https://www.kingsplace.co.uk/whats-on/contemporary/zubin-kanga-with-shiva-feshareki/"
@@ -63,7 +63,7 @@
           >Royal Welsh College of Music & Drama, Cardiff, Wales.</span
         >
         <span class="text-base mb-2 block text-center"
-          >‘TRANSFIGURE’ (2022) acoustic premiere performed by The Hermes Ensemble.</span
+          >‘TRANSFIGURE’ (2022) acoustic premiere performed by The Hermes Experiment.</span
         >
         <a
           href="https://www.rwcmd.ac.uk/events/2023-03/hermes-experiment"
